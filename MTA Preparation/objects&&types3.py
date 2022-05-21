@@ -8,9 +8,8 @@ def banner(message,border='-'):
     # When assing default arguments , the parameters should come after default arguments not before
 a = banner("How are you")
 
-from ast import Add
-import time
-from turtle import delay 
+
+import time 
 
 print(time.ctime())
 
